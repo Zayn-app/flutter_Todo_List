@@ -1,5 +1,7 @@
 
-This project includes a simple to-do list and operations and building this project used Flutter and Dart technologies
+This project includes a simple to-do list and operations.
+
+Building this project used Flutter and Dart technologies.
 
 
 ![image](https://github.com/Zayn-app/flutter_Todo_List/assets/105794757/94dd1fc3-ac03-429c-ac3c-e9a826be3843)
